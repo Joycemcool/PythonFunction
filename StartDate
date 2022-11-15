@@ -1,3 +1,8 @@
 #create large, powerful, and virtually bug-free code bases
 #the code are easy to test and modify
 #declarative style programming
+# voice input #windows+h 
+#immutability separating functions and data first class functions
+# in a function the variables are immutable brand of valuable is given value is always the same
+# most valuables in functions are treated as a constant
+#treat function as value, number...list, combine existing functions to create new function 
